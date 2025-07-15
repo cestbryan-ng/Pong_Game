@@ -20,4 +20,4 @@ Un jeu rétro 2D où un joueur doit casser des briques.
 
 ## 🛠️ Installation
 
-(exe)[https://mega.nz/folder/KAJ3GS6J#TMMjX5nUlge78uoSS6LUqA]
+[exe](https://mega.nz/folder/KAJ3GS6J#TMMjX5nUlge78uoSS6LUqA)
