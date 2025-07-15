@@ -6,7 +6,7 @@ Un remake simple et fonctionnel du jeu classique **Pong**, réalisé en Python �
 
 ## 📷 Aperçu
 
-Un jeu rétro 2D où un joueur s'affronte pour casser des briques.
+Un jeu rétro 2D où un joueur doit casser des briques.
 
 ---
 
